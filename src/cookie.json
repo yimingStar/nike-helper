@@ -1,0 +1,698 @@
+[
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1603866667.460826,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_abck",
+      "path": "/",
+      
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "066AAED74B06F93C990EEFCB0F5B1024~-1~YAAQNl9Kyy0SJFl1AQAA/M3AaAQVRfuIfgaSxuN9qm27hjuLWQZ0HI2y2TP+z0s8FLRKbSj+Oif6+maFk/NZQ4HRiTqnFxHg7PyWFMsUGFprdmwnuwFndXLKz/DmdA7VUOPuEOSP6d2dq8Q/R2dr62ETBvWoCCuOxphE2APjArEqMFGIdwOeisA7rnxRc6YoU/oqqEaBkTURpCUJv060sWR5+sZmZm3Ygn9mZzxEUhtxWZmalZlGJ87QkGWChuixkngsujvb+cdu8vs6jlUop1wA/XSnqYYrYi9p/JoZRnHE6cHbnFkaFZTbLfmvRUYy2NLW2gSIVRJwqf2CQAFWY0SHBz9Z0GkGp07zPi6e6g6hYeRjvP2pgMDsdGZTEZbnGm+1J706Rg+rdhyVF6qiydgdkMoWmtVcPl3I4uWLx5AeRelVWZXGXT7tDP4p3U4MgH7rG85NpjY=~-1~-1~-1",
+      "id": 1
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1611556266,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_fbp",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "fb.1.1603594949886.2123808058",
+      "id": 2
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1666850818,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_ga",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "GA1.2.675274544.1603594951",
+      "id": 3
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1611372002,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_gcl_au",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "1.1.1851946935.1603594951",
+      "id": 4
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1603865218,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_gid",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "GA1.2.1982828374.1603769174",
+      "id": 5
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1635314818,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_pin_unauth",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "dWlkPU5EWmxOakkwTVdRdE5qUmxaUzAwTkdJMUxXSTBaall0T1dKbVl6WmlaR1UyWmpCaQ",
+      "id": 6
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1637781648,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_scid",
+      "path": "/",
+      
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "14fe2bcb-b5dd-4833-8044-74550d3f0bc1",
+      "id": 7
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1637781649,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_sctr",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "1|1603555200000",
+      "id": 8
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1603865217,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_uetsid",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "2abbba00180411ebb11de3d09ead910e",
+      "id": 9
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1605182817,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_uetvid",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "84fcf9d0166e11eb817a31d70120e545",
+      "id": 10
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1603785964.146591,
+      "hostOnly": false,
+      "httpOnly": true,
+      "name": "ak_bmsc",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "C13F47CC9592893A8E4CEE259CFCC854CB4A5F36FE4D0000CCB8975F1B82722C~plH/3QJ0cmPN01ppkcNQzi69G3IMjZbFmFAapJmPAUnIgVM1fVvtsErYxZP0tH3EWmIpHvTal7Y8Ryj//26L4a+RpGOZdz4QM/JYYwhC2jwxWFtT9+H5iiDCP1cznhk2XxgX+F+7Ga32GFma5a3wW3k/LJDjnzeB2B6ds1eIjPNxnne3GNRdZRDHG50cXNGOBeWm3lXeZ18x89+jmZzqNuJTaiir0EwDSpOIBmiimaYbj6Onykg5T3DFx2w3xZERWY5wReE7MDPYxa7Rrc2DnduQ==",
+      "id": 11
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1603782365.494063,
+      "hostOnly": false,
+      "httpOnly": true,
+      "name": "AKA_A2",
+      "path": "/",
+      
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "A",
+      "id": 12
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1666666946,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "AMCV_F0935E09512D2C270A490D4D%40AdobeOrg",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "1994364360%7CMCMID%7C92172741480763521542860232183011784601%7CMCAID%7CNONE%7CMCOPTOUT-1603602146s%7CNONE%7CvVersion%7C3.4.0",
+      "id": 13
+  },
+  {
+      "domain": ".nike.com",
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "AMCVS_F0935E09512D2C270A490D4D%40AdobeOrg",
+      "path": "/",
+      
+      "secure": false,
+      "session": true,
+      "storeId": "0",
+      "value": "1",
+      "id": 14
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 2177452799.911825,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "AnalysisUserId",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "203.69.138.130.21721603594945440",
+      "id": 15
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1666850819,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "anonymousId",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "8A6133246835C4530C0D3306EE9D36F7",
+      "id": 16
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1603865166.494003,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "audience_segmentation_performed",
+      "path": "/",
+      
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "true",
+      "id": 17
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1635314772,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "bc_nike_taiwan_triggermail",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "%7B%22distinct_id%22%3A%20%221755db514e3aee-0445831143fb04-316e7305-13c680-1755db514e4b84%22%2C%22bc_id%22%3A%20920455448%2C%22ch%22%3A%20%22-1062523092%22%2C%22cart_total%22%3A%200%7D",
+      "id": 18
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1635131052,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "bluecore_uniteSubmit",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "true",
+      "id": 19
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1603785964.687289,
+      "hostOnly": false,
+      "httpOnly": true,
+      "name": "bm_mi",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "BDE752B92307591C1AB501FDC4DFF570~QXwiL2uCwA37c8CeE5+7NrZ2fST+3WeuIjwr2UrkK/bqPZq1ybyo6yAvVadvYKTyrZQI4v764WjOJczc5+BfTWwHU67c6LOF9HB5rg0T64+ThVLAaPY5dzHDUb65hMCZ2Hqf9oeyuJbxXF/0QJ032SOSh+icCZh1fPbnpzchggRxUFAFkeWlAnin6MrHWP4WyQmPLzjH/4qhEkuUJKYAQ17ATpmbRuF5WbqnXbb56az+qGAAgg6TciEG7IO3gHefGQFPHmGMrOkieUCZvNGSxhI2ZDk95GohD/8NBCUZN50=",
+      "id": 20
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1603785966.011608,
+      "hostOnly": false,
+      "httpOnly": true,
+      "name": "bm_sv",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "0134832F3D87C5F09499FF8F32D35A47~QdZYlv03QhZ1+ALMUH3VlR7PWx5ch6tNUx8bgDGfLriNdc7EOwT/V0hRb3dDm1G79vKWXxMnWoCjnoOSKjw3EFKFUi12mAvSaI4rBC/R4H2Xsrh+vg1iOuEEThg/k3fgWDkY4lq6j2zW5Jzi24MWiA==",
+      "id": 21
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1603793163.677044,
+      "hostOnly": false,
+      "httpOnly": true,
+      "name": "bm_sz",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "05968440FE3A786DED87B00DB943DC2A~YAAQdIpFy/BcIGR1AQAAnNupaAn8NwYXJMOIyUSSEKO4/d2GRhrvRoS2ESbgB9Np8Tftpimddv4zybRtSXsn9umt8TzPL6iVHVFx+C9oTGSLRWkDW9QG8Qu+5/iR7lMiDDp046CjpCpQ664jBcryD2R4z3uN961iWNiqKGTHHcWLpryC5EOhT3TlBO1JIXmNe6QQjiGvdzCquTuAKmeOVZ+p3W7eeOoH5Qcc9F5YHNMBnB89iop7aMmn2Qk1Xg7OD2HZ9kwTSIUvxCxetE3vpUr8Df6XU0MZnxpzD3A=",
+      "id": 22
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 2726314178817,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "CONSUMERCHOICE",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "tw/zh_tw",
+      "id": 23
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1918955961,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "dreamcatcher_sample",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "50",
+      "id": 24
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1603865166.493983,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "feature_enabled__as_nav_rollout",
+      "path": "/",
+      
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "true",
+      "id": 25
+  },
+  {
+      "domain": ".nike.com",
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "geoloc",
+      "path": "/",
+      
+      "secure": false,
+      "session": true,
+      "storeId": "0",
+      "value": "cc=TW,rc=,tp=vhigh,tz=GMT+8,la=25.02,lo=121.45",
+      "id": 26
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1919138775,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "guidS",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "c94395b3-7255-4a09-de29-0825f1fb8d72",
+      "id": 27
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1919138818,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "guidSTimestamp",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "1603778775829|1603778818921",
+      "id": 28
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1698266269.361682,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "guidU",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "d8c7342c-1c0f-4c40-ae3b-269cb31c176c",
+      "id": 29
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1606372269.272532,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "llCheck",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "7yVkgyG+1T4Deu/VLSCno6CCGsEw2tFbV6OO0GYNM6Uy1n98lBx9/Ek02joToYW+C5VZqFBqq+LAsoguL53tCXG405OWpBWIp2DzFcARLnc5B+DEgzKSJxa+5CXtEnG/xYm5Gm8jAt2oETOWW+gkwdtiVBCvsqQjUbfBtn/vcU/A9n+E3Y+wq0p638+CRbN2gi2lTq8/E/omj+8i6VPKwg==",
+      "id": 30
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1606372269.272435,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "lls",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "3",
+      "id": 31
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1918955961,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "neo_sample",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "7",
+      "id": 32
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 2726314178817,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "NIKE_COMMERCE_COUNTRY",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "TW",
+      "id": 33
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 2726314178817,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "NIKE_COMMERCE_LANG_LOCALE",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "zh_TW",
+      "id": 34
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1604383617.699256,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "nike_cp",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "56135845539_search_%257Ctw%257CCore%252BBrand%252B-%252BGN%252B-%252BPure%252B-%252BXCategory%252B-%252BNike%252BTaiwan%252B-%252BTM%252B-%252BMen%252BTargeted%252B-%252BGN%252BLP%252BTest%252B-%252BEN_CH%252B-%252BExact%257CGOOGLE%257Cnike",
+      "id": 35
+  },
+  {
+      "domain": ".nike.com",
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "nike_locale",
+      "path": "/",
+      
+      "secure": false,
+      "session": true,
+      "storeId": "0",
+      "value": "tw/zh_tw",
+      "id": 36
+  },
+  {
+      "domain": ".nike.com",
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "ppd",
+      "path": "/",
+      
+      "secure": false,
+      "session": true,
+      "storeId": "0",
+      "value": "pdp|snkrs>pdp>kybrid%20s2%20ep",
+      "id": 37
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1603780616,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "RES_SESSIONID",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "83640681296787730",
+      "id": 38
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1637942816,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "RES_TRACKINGID",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "52922989131459530",
+      "id": 39
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1608962816,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "ResonanceSegment",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "1",
+      "id": 40
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1604384516,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "RT",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "\"z=1&dm=nike.com&si=9a710064-64f8-47ac-bc7b-a1f56b82c752&ss=kgojnkcc&sl=0&tt=0&bcn=%2F%2F684d0d38.akstat.io%2F\"",
+      "id": 41
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1666666946.402914,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "s_ecid",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "MCMID%7C92172741480763521542860232183011784601",
+      "id": 42
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1918955961,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "siteCatalyst_sample",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "10",
+      "id": 43
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1606372269.272263,
+      "hostOnly": false,
+      "httpOnly": true,
+      "name": "slCheck",
+      "path": "/",
+      
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "3ZvGTUL9nCPbnVRygXYIvpwmWn9AuFYcHzwLCHRwCNsMXYNvUzbbW3Q2t5K5GtteS7x8sAxwjCX+6dnAwpRF8IlKMtjJzIR2HbA/LwdjAu5naJA0bSt9da30cVs4pw4yXO46JvDLAIZ3YLAS5fyrxg==",
+      "id": 44
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1606372269.272633,
+      "hostOnly": false,
+      "httpOnly": true,
+      "name": "sls",
+      "path": "/",
+      
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "3",
+      "id": 45
+  },
+  {
+      "domain": ".nike.com",
+      "expirationDate": 1918955961,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "sq",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "3",
+      "id": 46
+  },
+  {
+      "domain": ".www.nike.com",
+      "expirationDate": 1635315177,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "stc111680",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "env:1603778772%7C20201127060612%7C20201027063657%7C3%7C1015907:20211027060657|uid:1603594949967.693560400.8921995.111680.913737827.1:20211027060657|srchist:1015907%3A1603778772%3A20201127060612:20211027060657|tsa:1603778772672.451523830.5048833.4430550250797325.5:20201027063657",
+      "id": 47
+  },
+  {
+      "domain": "www.nike.com",
+      "expirationDate": 1604804545.911953,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "anonymousId",
+      "path": "/tw",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "8A6133246835C4530C0D3306EE9D36F7",
+      "id": 48
+  },
+  {
+      "domain": "www.nike.com",
+      "expirationDate": 1633778773,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "bluecoreNV",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "false",
+      "id": 49
+  },
+  {
+      "domain": "www.nike.com",
+      "expirationDate": 1603865219,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "DAPROPS",
+      "path": "/",
+      
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "\"sdevicePixelRatio:2|sdeviceAspectRatio:16/10|bcookieSupport:1\"",
+      "id": 50
+  }
+  ]
